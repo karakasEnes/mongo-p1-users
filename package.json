@@ -1,0 +1,16 @@
+{
+  "name": "p1-users",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Enes Karakas",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^9.2.0",
+    "mongoose": "^6.2.0",
+    "nodemon": "^2.0.15"
+  }
+}
